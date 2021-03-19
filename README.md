@@ -2,6 +2,8 @@
 I am a fullstack software engineer from bangladesh and have experience with backend development also mobile application,web application.
 
 - 🔭 Currently working on multiple frontend and backend project using react and nodejs
+- Portfolio - [<img align="left" alt="Portfolio" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-portfolio-icon-png-image_4171290.jpg" />](https://shoaibmehedi7.github.io)
+
 <br>
 
 ## Connect with me
