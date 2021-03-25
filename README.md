@@ -4,8 +4,6 @@ I am a fullstack software engineer from bangladesh and have experience with back
 - 🔭 Currently working on multiple frontend and backend project using react and nodejs
 - Portfolio - (https://shoaibmehedi7.github.io)
 
-<br>
-
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mdshoaibmehedi/)
@@ -29,6 +27,8 @@ I am a fullstack software engineer from bangladesh and have experience with back
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Web Application Security Risks](https://medium.com/@shoaib.mehedi/top-10-web-application-security-risks-997cb12efcb5)
+- [Top 10 Web Application Security Risks](https://javascript.plainenglish.io/top-10-web-application-security-risks-997cb12efcb5)
+- [Injection (Application Security Risk)](https://shoaib-mehedi.medium.com/injection-number-oneapplication-security-risk-bbd4506368a8)
+- [5 Most essential node packages](https://shoaib-mehedi.medium.com/5-most-essential-node-packages-d406769e1f50)
 <!-- BLOG-POST-LIST:END -->
 
