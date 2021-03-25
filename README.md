@@ -7,7 +7,7 @@ I am a fullstack software engineer from bangladesh and have experience with back
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mdshoaibmehedi/)
-[<img align="left" alt="medium" src="https://shoaib-mehedi.medium.com/" />](https://medium.com/@shoaib.mehedi)
+[<img align="left" alt="medium" src="https://shoaib-mehedi.medium.com/" />](https://shoaib-mehedi.medium.com/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/mdshoaibmehedi/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/mdshoaibmehedi)
 
